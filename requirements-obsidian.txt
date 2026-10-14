@@ -1,0 +1,4 @@
+pdfplumber>=0.11
+fastapi
+uvicorn
+python-multipart
