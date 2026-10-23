@@ -1,6 +1,6 @@
-# PDF a Markdown → Obsidian
+# Markdown → Obsidian
 
-Convierte PDFs (y DOCX, PPTX, XLSX, HTML…) a Markdown bien estructurado y los guarda directamente en una bóveda de Obsidian.
+Convierte PDFs (y DOCX, PPTX, XLSX, HTML) a Markdown bien estructurado y los guarda directamente en una bóveda de Obsidian.
 
 Basado en [Microsoft MarkItDown](https://github.com/microsoft/markitdown) (licencia MIT; ver `README-markitdown.md` y `LICENSE`).
 
